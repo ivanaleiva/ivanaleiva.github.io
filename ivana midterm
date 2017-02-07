@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>midterm.html</title>
+</head>
+<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Roboto" rel="stylesheet">
+<style>
+body
+{
+	background-image: url(http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/973/full/tileable-dark-wood-textures-6.jpg);
+	color: white;
+	text-align: center;
+	font-family: georgia;
+	margin-top: 30px;
+	}
+ </style>
+<BODY><H1>MIDTERM EXAM</H1>
+<BR>
+<H2>IM1200 BASIC WEB DESIGN</H2>
+<BR>
+<link rel="stylesheet" href="http://ivanadelcarmen.me/index.html#contact">
+<H4>YOUR NAME</H4>
+<BR>
+<H4>tuesday february 7</H4>
+<a href="http://ivanadelcarmen.me/index.html#contact"><img src="https://www.w3.org/html/logo/img/class-header-performance.jpg" alt="logo" width="251" height="217"></a>
+</body>
+</html>
